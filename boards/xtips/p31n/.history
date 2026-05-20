@@ -1,0 +1,7 @@
+zsh.2026-05-20.18-25-48.ymb.local cd p31n
+zsh.2026-05-20.18-25-54.ymb.local ls
+zsh.2026-05-20.18-26-00.ymb.local open .
+zsh.2026-05-20.18-32-59.ymb.local nvim .
+zsh.2026-05-20.18-33-04.ymb.local git status
+zsh.2026-05-20.18-33-39.ymb.local bat ../../../build.yaml
+zsh.2026-05-20.18-33-47.ymb.local bat ../../../config/west.yml
